@@ -2,7 +2,7 @@
 
 ## Description
 
-A repository to run to play scissors, paper stone game done in the [COW](https://bigzaphod.github.io/COW/) programming language.
+A repository with code to play rock paper, scissors game done in the [COW](https://bigzaphod.github.io/COW/) programming language.
 
 ## Files and Directories
 
