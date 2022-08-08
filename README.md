@@ -13,3 +13,11 @@ cow_prog is the directory for the source file to build the cow program. To compi
 ### rps.cow
 
 The actual program being developed to play Rock, Paper, Scissors.
+
+## Memory block definitions
+
+Register
+
+memory block 1: User input
+memory block 2: temp, which is a copy of user input
+memory block 3: condition being checked
